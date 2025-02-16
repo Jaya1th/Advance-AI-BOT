@@ -4,7 +4,7 @@ import easyocr
 from gtts import gTTS
 
 
-openai.api_key = "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"
+openai.api_key = " use your api key here guys "
 
 def extract_products(image):
     reader = easyocr.Reader(['en'])
